@@ -5,13 +5,13 @@ It was implemented in Python using the Jupyter Notebook environment.
 
 ## Requirements for running the notebook:
 
-- Its necessary to have installed the following libraries: 
- -numpy
- -pandas
- -matplotlib
- -sklearn
- -seaborn
- -imblearn
+- It's necessary to have installed the following libraries: 
+  - numpy 
+  - pandas 
+  - matplotlib 
+  - sklearn 
+  - seaborn 
+  - imblearn
 
 ## How to run:
 
